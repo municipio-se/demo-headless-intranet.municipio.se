@@ -19,7 +19,7 @@ export const developMiddleware = (app) => {
 
 export const siteMetadata = {
   siteUrl: process.env.GATSBY_SITE_URL,
-  title: `Wordpress Starter`,
+  title: `Municipio`,
   description: `Starter site using Wordpress and Gatsby`,
 };
 
