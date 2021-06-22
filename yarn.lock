@@ -1774,10 +1774,10 @@
   resolved "https://registry.yarnpkg.com/@mikaelkristiansson/domready/-/domready-1.0.11.tgz#6a4b5891dccb6402ff4e944de843036ee1ffd4f5"
   integrity sha512-nEBLOa0JgtqahmPrnJZ18epLiFBzxhdKgo4uhN3TaBFRmM30pEVrS9FAEV4tg92d8PTdU+dYQx2lnpPyFMgMcg==
 
-"@municipio/gatsby-theme-basic@^0.8.4":
-  version "0.8.4"
-  resolved "https://registry.yarnpkg.com/@municipio/gatsby-theme-basic/-/gatsby-theme-basic-0.8.4.tgz#aeb7722b72b399759e40e70bbc0354e7de008411"
-  integrity sha512-3zIUMY+bAREXPFPAR3hWYbeRBvdBk3R90QF909TQSwneIno3PPIKDw+NvkMjainBxxbJbDmHo3rXGr0YGDHSKQ==
+"@municipio/gatsby-theme-basic@^0.9.0":
+  version "0.9.0"
+  resolved "https://registry.yarnpkg.com/@municipio/gatsby-theme-basic/-/gatsby-theme-basic-0.9.0.tgz#5377b9e06b1a9ba71478033dcf5b090fd15ecb3c"
+  integrity sha512-Z3kdqfYOkRoQgwlYJXfFLyD5EHs43AYByNuaYJ+PrvmunV4SN33HQIFHbrECdLbdJe6s2RH1kq/Rw9CDgED6Uw==
   dependencies:
     "@whitespace/gatsby-theme-wordpress-basic" "^0.10.0"
     autoprefixer "^10.2.6"
@@ -1787,12 +1787,12 @@
     formik "^2.2.9"
     yup "^0.32.9"
 
-"@municipio/gatsby-theme-intranet@^0.10.3":
-  version "0.10.3"
-  resolved "https://registry.yarnpkg.com/@municipio/gatsby-theme-intranet/-/gatsby-theme-intranet-0.10.3.tgz#b038e4437aeb3dade32edfb279c6fdadb7c75558"
-  integrity sha512-luTA1ap5IxilMxIykppMPB9lnm05YQ5voWgxPWIMC8O9kkKuaeK9MCjdD7dL2U+KwmN/ii4bahX48X7bG9Bx9w==
+"@municipio/gatsby-theme-intranet@^0.11.0":
+  version "0.11.0"
+  resolved "https://registry.yarnpkg.com/@municipio/gatsby-theme-intranet/-/gatsby-theme-intranet-0.11.0.tgz#cad3abc0ba1b667d8e7d0bc836bb8498e8f80d79"
+  integrity sha512-rRTqeq2f55ySyUL5CB2KA2f6lzUo/7SDP0d/0kEOiCW0Z9UGSYvCUTgCodmelg+39HLh5tDVpC+BiOzN4IhJ6w==
   dependencies:
-    "@municipio/gatsby-theme-basic" "^0.8.4"
+    "@municipio/gatsby-theme-basic" "^0.9.0"
     http-proxy-middleware "^2.0.0"
     react-accessible-dropdown-menu-hook "^2.3.0"
     react-error-boundary "^3.1.3"

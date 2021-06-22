@@ -22,6 +22,7 @@ export const query = graphql`
         postContentMedia {
           ...WP_ImageWide
         }
+        theme
       }
       postsDataPostType {
         name
