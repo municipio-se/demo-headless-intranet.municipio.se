@@ -60,4 +60,10 @@ export default {
   card: {
     background: "#F5F5F4",
   },
+  article: {
+    preamble: {
+      color: "#57534E",
+      fontWeight: 300,
+    },
+  },
 };

@@ -1774,12 +1774,12 @@
   resolved "https://registry.yarnpkg.com/@mikaelkristiansson/domready/-/domready-1.0.11.tgz#6a4b5891dccb6402ff4e944de843036ee1ffd4f5"
   integrity sha512-nEBLOa0JgtqahmPrnJZ18epLiFBzxhdKgo4uhN3TaBFRmM30pEVrS9FAEV4tg92d8PTdU+dYQx2lnpPyFMgMcg==
 
-"@municipio/gatsby-theme-basic@^0.8.1":
-  version "0.8.1"
-  resolved "https://registry.yarnpkg.com/@municipio/gatsby-theme-basic/-/gatsby-theme-basic-0.8.1.tgz#a0a6bb5c35e28370aff9bedc9a98a54f049f6527"
-  integrity sha512-VYNZb5YYgC7UMJdKWlMa6c5iDohga5vAMT5AhEa7G/C7DNmIpk82lkTSCDMXJ4FCc2ua4s7OZ3X1nYGnsUGv6Q==
+"@municipio/gatsby-theme-basic@^0.8.3":
+  version "0.8.3"
+  resolved "https://registry.yarnpkg.com/@municipio/gatsby-theme-basic/-/gatsby-theme-basic-0.8.3.tgz#954c467bd94c05d9f0e43be4305a8dd2e1ebddd8"
+  integrity sha512-2ZsXsh6Nbm2Wb7aYqnKrEPJ1Ehv+VxJx+jg4wBT2M5XP615hCadCpmtgjSE6BXcnz//4F/TYNKy00wbfM1oEqQ==
   dependencies:
-    "@whitespace/gatsby-theme-wordpress-basic" "^0.8.3"
+    "@whitespace/gatsby-theme-wordpress-basic" "^0.9.0"
     autoprefixer "^10.2.6"
     axios "^0.21.1"
     classnames "^2.3.1"
@@ -1787,12 +1787,12 @@
     formik "^2.2.9"
     yup "^0.32.9"
 
-"@municipio/gatsby-theme-intranet@^0.10.0":
-  version "0.10.0"
-  resolved "https://registry.yarnpkg.com/@municipio/gatsby-theme-intranet/-/gatsby-theme-intranet-0.10.0.tgz#2603d1592889c815fe1fc2dd01d3ccb693d43a66"
-  integrity sha512-86ar/ZRKvPvbMeKftA4nz0vVrhWX9gOQv65JI51lv+uLF8O3ZnfvP47bE1vI8qNYYSqaOX0J2PPpMXTY+prPrA==
+"@municipio/gatsby-theme-intranet@^0.10.2":
+  version "0.10.2"
+  resolved "https://registry.yarnpkg.com/@municipio/gatsby-theme-intranet/-/gatsby-theme-intranet-0.10.2.tgz#6b5250fbef9c927004d32e91fdc232fe07afc13a"
+  integrity sha512-bG8hpkE8k9dr4y469wIyF5xZ9tha5x0hIiyMg+ZX7fR7+JS1pbYzE/8H1+WCfisar65OHFns2qpbJB28OTMpgA==
   dependencies:
-    "@municipio/gatsby-theme-basic" "^0.8.1"
+    "@municipio/gatsby-theme-basic" "^0.8.3"
     http-proxy-middleware "^2.0.0"
     react-accessible-dropdown-menu-hook "^2.3.0"
     react-error-boundary "^3.1.3"
@@ -2457,10 +2457,10 @@
   dependencies:
     prop-types "^15.7.2"
 
-"@whitespace/gatsby-theme-wordpress-basic@^0.8.3":
-  version "0.8.3"
-  resolved "https://registry.yarnpkg.com/@whitespace/gatsby-theme-wordpress-basic/-/gatsby-theme-wordpress-basic-0.8.3.tgz#26958d2efab481c304af37e0646a4b9f757940c3"
-  integrity sha512-weyd2OuwZp3DdJFwLYioBZYDLaRDBzgFwwIaYkcFHHIPFmmgKpBprrAftBtDWdMAzYoZZMadIkrtM9/Z9F/P7A==
+"@whitespace/gatsby-theme-wordpress-basic@^0.9.0":
+  version "0.9.0"
+  resolved "https://registry.yarnpkg.com/@whitespace/gatsby-theme-wordpress-basic/-/gatsby-theme-wordpress-basic-0.9.0.tgz#caa9b1ddc165e95b5573035dfbf5e05cebd2cf99"
+  integrity sha512-k0+MSH12KQf/dLgW6TMUHAu/yWuKgSyGrB6xuOeyYdb2/UIseiV38VW4H7129dPQG/CMayCbBEn2CMSaWCG89A==
   dependencies:
     "@apollo/react-hooks" "^4.0.0"
     "@emotion/css" "^11.1.3"
